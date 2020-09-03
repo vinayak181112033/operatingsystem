@@ -21,3 +21,10 @@ Assignment-3
 2>zombie_process.c
 
 3>multiprocess.c
+
+
+Assignment-5
+
+1>fibonacci_using_thread.c
+
+2>variables_in_thread.c

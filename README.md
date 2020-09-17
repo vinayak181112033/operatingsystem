@@ -37,3 +37,11 @@ Assignment-6
 2> peterson.c
 
 3> race_condition.c
+
+
+Assignment-7
+
+1> producer consumer problem
+
+2> reader writer problem
+

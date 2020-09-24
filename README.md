@@ -45,3 +45,8 @@ Assignment-7
 
 2> reader writer problem
 
+
+Assignment-8
+
+1> diningPhilosopher using Semaphores
+

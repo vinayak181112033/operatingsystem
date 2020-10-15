@@ -50,3 +50,14 @@ Assignment-9
 
 1> diningPhilosopher using Semaphores
 
+
+Assignment-10
+
+1>FCFS scheduling
+
+2>SJF scheduling
+
+3>priority scheduling
+
+4>roundrobin scheduling
+
